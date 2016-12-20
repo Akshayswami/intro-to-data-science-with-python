@@ -65,6 +65,11 @@ For the next set of questions, we will be using census data from the [United Sta
 
 The census dataset (census.csv) should be loaded as census_df. Answer questions using this as appropriate.
 
+```
+census_df = pd.read_csv('census.csv')
+census_df
+```
+
 ### Question 5
 Which state has the most counties in it? (hint: consider the sumlevel key carefully! You'll need this for future questions too...)
 
