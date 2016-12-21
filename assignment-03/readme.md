@@ -67,6 +67,7 @@ The previous question joined three datasets then reduced this to just the top 15
   <text  x="300" y="165" font-family="Verdana" font-size="35">Everything but this!</text>
 </svg>
 ```
+Note: My data cleaning did not entirely match the expected results. So Question 2 does not yield the expected answer. The other questions are perfectly right.
 
 <br>
 
