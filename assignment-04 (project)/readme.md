@@ -17,6 +17,7 @@ The following data files are available for this assignment:
 Each function in this assignment below is worth 10%, with the exception of ```run_ttest()```, which is worth 50%.
 
 Note:
+
 I have added a few functions that aren't graded. Functions that are graded are:
 * ```get_list_of_university_towns()```
 * ```get_recession_start()```
